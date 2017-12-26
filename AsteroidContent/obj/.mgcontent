@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/Ship.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/explosion.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/audio/Explosion.wav</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/fonts/baseFont.spritefont</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/Asteroid.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/LeaderboardsButton.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/ResumeButton.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/StartButton.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/Background.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/ControlsButton.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/ControlsPanel.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/PlayAgainButton.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/BackgroundGameOver.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/ProjectileShip.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/ProjectileEnemy.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/AsteroidTest.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/1.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/2.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/3.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/4.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/5.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/6.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/7.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/8.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/9.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/0.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/graphics/MainMenuButton.png</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/audio/Shoot.wav</File>
+    <File>D:/Development/Google Drive/1DAE/PlatformDevelopment/Asteroid/AsteroidContent/audio/Bounce.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
